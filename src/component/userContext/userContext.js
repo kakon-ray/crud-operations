@@ -19,7 +19,7 @@ export const UserProvider = (props) => {
     {
       id: 3,
       name: "Ariful Islam Sir",
-      position: "Full Stack Developer",
+      position: "Full Stack Web Developer",
       salary: 27000,
     },
   ]);

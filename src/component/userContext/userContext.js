@@ -12,7 +12,7 @@ export const UserProvider = (props) => {
     },
     {
       id: 2,
-      name: "Junaid Ahmed",
+      name: "Junayed Ahmed",
       position: "Front End Developer",
       salary: 26000,
     },

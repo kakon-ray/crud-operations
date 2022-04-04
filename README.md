@@ -1,5 +1,11 @@
-# React js Used to create crowd operations projects
+> # React.js was used to create Croude Operation project
 
-## This project build to use react js, react context api, react router dom, useState and useContext hook
+> - ## Used React Context Api
+>
+> * ## Useed react router dom
+>
+> * ## Total four operation Add, Edit, Delete, Red do this project
+>
+> * ## Used useState and useContext hook
 
-# [live link](https://crud-operations-kakon-ray.netlify.app/)
+> - ## Live Link: [Croude Operation](https://crud-operations-kakon-ray.netlify.app/)
